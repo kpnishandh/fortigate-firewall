@@ -10,7 +10,7 @@
 - Windows Active Directory Used [Windows Server 2019]
 - Eve-NG Hosted on VMware Workstation Pro 17.
 
-# How can I do Lab?
+<!--# How can I do Lab?
 
 - You Will Get Fortigate Image: [Click here to Download](https://drive.google.com/drive/folders/1l5OluxJoMxPoJJty2hmcfIP5Cp5gZZWX?usp=drive_link)
 - All the Images for EVE-NG and GNS3 available here also: [Cisco-Images-for-GNS3-and-EVE-NG](https://github.com/hegdepavankumar/Cisco-Images-for-GNS3-and-EVE-NG)
@@ -21,7 +21,8 @@
 
 - Let's start : [click here](https://hegdepavankumar.github.io/Fortigate-Firewall-Complete-Guide/)
 
-<br>
+<br> 
+--> 
 
  
 # Topics to be covered:
