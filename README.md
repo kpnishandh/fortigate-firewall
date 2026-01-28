@@ -2087,7 +2087,7 @@ By completing these modules, you've gained a comprehensive understanding of Fort
 
 (https://github.com/kpnishandh). Created by:-
 
-[<img src="https://github.com/kpnishandh.png?size=115" width="115"><br><sub>@kpnishandh</sub>](https://github.com/kpnishandh). Created by:-) |
+[<img src="https://github.com/kpnishandh.png?size=115" width="115"><br><sub>@kpnishandh</sub>](https://github.com/kpnishandh).
 
 <br>
 <h3 align="center">Show some &nbsp;❤️&nbsp; by starring some of the repositories!</h3>
@@ -2095,7 +2095,8 @@ By completing these modules, you've gained a comprehensive understanding of Fort
 
 <hr>
 
-<!-- <!-- Support Me --> 
+<!--
+<!-- Support Me --> 
 
 
 If you like what I do, maybe consider buying me a coffee 🥺👉👈
